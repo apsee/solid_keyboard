@@ -6,3 +6,4 @@ portability. I included a rotary encoder and OLED switch for future use.
 
 ![Screenshot from 2025-03-07 11-51-27](https://github.com/user-attachments/assets/bfdf2242-5f09-4f6c-9f3f-f8c96faa65aa)
 ![Screenshot from 2025-03-07 11-52-16](https://github.com/user-attachments/assets/d1825f04-9b98-4e65-a261-bd2c3df959f0)
+![IMG_3252](https://github.com/user-attachments/assets/0b9d47f6-6c70-44de-a281-185c94dbfc48)
